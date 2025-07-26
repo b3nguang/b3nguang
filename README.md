@@ -1,7 +1,3 @@
-# Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/b3nguang/count.svg)
-
 <table>
     <tr>
         <td >
